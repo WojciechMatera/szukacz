@@ -1,0 +1,11 @@
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.Form1.resources
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.Form2.resources
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.Properties.Resources.resources
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.csproj.GenerateResource.cache
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.csproj.CoreCompileInputs.cache
+C:\projekty\szukacz\szukacz\bin\Debug\szukacz.exe.config
+C:\projekty\szukacz\szukacz\bin\Debug\szukacz.exe
+C:\projekty\szukacz\szukacz\bin\Debug\szukacz.pdb
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.exe
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.pdb
+C:\projekty\szukacz\szukacz\obj\Debug\szukacz.csprojAssemblyReference.cache
