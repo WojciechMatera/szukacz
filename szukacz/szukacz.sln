@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szukacz", "szukacz.csproj", "{A73793BF-128B-4B5C-803C-20086CF477AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73793BF-128B-4B5C-803C-20086CF477AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73793BF-128B-4B5C-803C-20086CF477AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73793BF-128B-4B5C-803C-20086CF477AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73793BF-128B-4B5C-803C-20086CF477AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C03C2C-217A-4F43-8279-0781AB41CE72}
+	EndGlobalSection
+EndGlobal
